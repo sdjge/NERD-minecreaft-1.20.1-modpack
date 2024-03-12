@@ -25,3 +25,8 @@ replay_pid*
 *
 !.gitignore
 !kubejs/   
+!config/
+!defaultconfigs/
+!resourcepacks/
+!emi.json
+!buddingcrystals/
