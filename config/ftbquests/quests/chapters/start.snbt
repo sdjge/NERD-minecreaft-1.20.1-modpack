@@ -1,0 +1,58 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "start"
+	group: ""
+	id: "0983E8E5CC763FA8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "25AC661A5B16CD8A"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "2E53B5AC165CC16D"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "74B0032009A9F8AF"
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			id: "4243E6D7A7E30FAF"
+			optional: true
+			rewards: [{
+				auto: "enabled"
+				command: "/execute as @p at @p run summon minecraft:lightning_bolt"
+				icon: { Count: 10b, id: "minecraft:experience_bottle" }
+				id: "1BADC7672FF4995C"
+				title: "才不是经验"
+				type: "command"
+			}]
+			tasks: [{
+				id: "639B4857D20F434C"
+				title: "不看剧情内容瞎钩就会被雷劈哦~"
+				type: "checkmark"
+			}]
+			title: "关于剧情"
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "42A55ABB2CC07CDD"
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			id: "5244790B58D193DC"
+			x: -1.5d
+			y: -1.0d
+		}
+	]
+	title: "start"
+}

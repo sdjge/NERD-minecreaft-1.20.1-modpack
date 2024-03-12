@@ -1,0 +1,54 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uncovered": "true",
+			"axis": "x"
+		},
+		"Name": "occultism:otherworld_log_natural"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uncovered": "false",
+			"axis": "x"
+		},
+		"Name": "occultism:otherworld_log_natural"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uncovered": "true",
+			"axis": "y"
+		},
+		"Name": "occultism:otherworld_log_natural"
+	},
+	{
+		"Name": "occultism:otherworld_log_natural"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uncovered": "true",
+			"axis": "z"
+		},
+		"Name": "occultism:otherworld_log_natural"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uncovered": "false",
+			"axis": "z"
+		},
+		"Name": "occultism:otherworld_log_natural"
+	}
+]

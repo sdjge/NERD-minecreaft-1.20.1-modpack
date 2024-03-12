@@ -1,0 +1,2819 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "0"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "1"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "2"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "3"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "4"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "5"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "6"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "north",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "north",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "south",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "south",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "west",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "west",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "true",
+			"facing": "east",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "true",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"right": "false",
+			"left": "false",
+			"facing": "east",
+			"contained_resources": "7"
+		},
+		"Name": "mna:inscription_table"
+	}
+]

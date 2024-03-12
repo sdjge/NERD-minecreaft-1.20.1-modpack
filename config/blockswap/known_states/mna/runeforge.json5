@@ -1,0 +1,3329 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "true"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "true",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "north",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "south",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "west",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "0",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "true",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "true",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"speed": "false",
+			"repair": "false",
+			"material": "1",
+			"facing": "east",
+			"doubling": "false",
+			"active": "false"
+		},
+		"Name": "mna:runeforge"
+	}
+]

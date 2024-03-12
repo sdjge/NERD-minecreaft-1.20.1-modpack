@@ -1,0 +1,185 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"tier": "1",
+			"activated": "true"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"tier": "1",
+			"activated": "true"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"tier": "2",
+			"activated": "true"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"tier": "2",
+			"activated": "true"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"tier": "3",
+			"activated": "true"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"tier": "3",
+			"activated": "true"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"tier": "4",
+			"activated": "true"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"tier": "4",
+			"activated": "true"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"tier": "5",
+			"activated": "true"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"tier": "5",
+			"activated": "true"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"tier": "1",
+			"activated": "false"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"tier": "2",
+			"activated": "false"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"tier": "2",
+			"activated": "false"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"tier": "3",
+			"activated": "false"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"tier": "3",
+			"activated": "false"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"tier": "4",
+			"activated": "false"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"tier": "4",
+			"activated": "false"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"tier": "5",
+			"activated": "false"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"tier": "5",
+			"activated": "false"
+		},
+		"Name": "forbidden_arcanus:hephaestus_forge"
+	}
+]

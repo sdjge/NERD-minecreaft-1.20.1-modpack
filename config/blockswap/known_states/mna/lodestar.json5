@@ -1,0 +1,484 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "1",
+			"low_tier": "true",
+			"facing": "north"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "2",
+			"low_tier": "true",
+			"facing": "north"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "2",
+			"low_tier": "true",
+			"facing": "north"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "3",
+			"low_tier": "true",
+			"facing": "north"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "3",
+			"low_tier": "true",
+			"facing": "north"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "1",
+			"low_tier": "false",
+			"facing": "north"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "1",
+			"low_tier": "false",
+			"facing": "north"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "2",
+			"low_tier": "false",
+			"facing": "north"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "2",
+			"low_tier": "false",
+			"facing": "north"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "3",
+			"low_tier": "false",
+			"facing": "north"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "3",
+			"low_tier": "false",
+			"facing": "north"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "1",
+			"low_tier": "true",
+			"facing": "south"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "1",
+			"low_tier": "true",
+			"facing": "south"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "2",
+			"low_tier": "true",
+			"facing": "south"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "2",
+			"low_tier": "true",
+			"facing": "south"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "3",
+			"low_tier": "true",
+			"facing": "south"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "3",
+			"low_tier": "true",
+			"facing": "south"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "1",
+			"low_tier": "false",
+			"facing": "south"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "1",
+			"low_tier": "false",
+			"facing": "south"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "2",
+			"low_tier": "false",
+			"facing": "south"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "2",
+			"low_tier": "false",
+			"facing": "south"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "3",
+			"low_tier": "false",
+			"facing": "south"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "3",
+			"low_tier": "false",
+			"facing": "south"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "1",
+			"low_tier": "true",
+			"facing": "west"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "1",
+			"low_tier": "true",
+			"facing": "west"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "2",
+			"low_tier": "true",
+			"facing": "west"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "2",
+			"low_tier": "true",
+			"facing": "west"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "3",
+			"low_tier": "true",
+			"facing": "west"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "3",
+			"low_tier": "true",
+			"facing": "west"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "1",
+			"low_tier": "false",
+			"facing": "west"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "1",
+			"low_tier": "false",
+			"facing": "west"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "2",
+			"low_tier": "false",
+			"facing": "west"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "2",
+			"low_tier": "false",
+			"facing": "west"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "3",
+			"low_tier": "false",
+			"facing": "west"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "3",
+			"low_tier": "false",
+			"facing": "west"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "1",
+			"low_tier": "true",
+			"facing": "east"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "1",
+			"low_tier": "true",
+			"facing": "east"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "2",
+			"low_tier": "true",
+			"facing": "east"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "2",
+			"low_tier": "true",
+			"facing": "east"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "3",
+			"low_tier": "true",
+			"facing": "east"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "3",
+			"low_tier": "true",
+			"facing": "east"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "1",
+			"low_tier": "false",
+			"facing": "east"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "1",
+			"low_tier": "false",
+			"facing": "east"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "2",
+			"low_tier": "false",
+			"facing": "east"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "2",
+			"low_tier": "false",
+			"facing": "east"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"surface": "3",
+			"low_tier": "false",
+			"facing": "east"
+		},
+		"Name": "mna:lodestar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"surface": "3",
+			"low_tier": "false",
+			"facing": "east"
+		},
+		"Name": "mna:lodestar"
+	}
+]

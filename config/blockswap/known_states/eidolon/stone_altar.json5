@@ -1,0 +1,355 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "true",
+			"px": "true",
+			"nz": "true",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "true",
+			"px": "true",
+			"nz": "true",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "false",
+			"px": "true",
+			"nz": "true",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "false",
+			"px": "true",
+			"nz": "true",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "true",
+			"px": "false",
+			"nz": "true",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "true",
+			"px": "false",
+			"nz": "true",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "false",
+			"px": "false",
+			"nz": "true",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "false",
+			"px": "false",
+			"nz": "true",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "true",
+			"px": "true",
+			"nz": "false",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "true",
+			"px": "true",
+			"nz": "false",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "false",
+			"px": "true",
+			"nz": "false",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "false",
+			"px": "true",
+			"nz": "false",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "true",
+			"px": "false",
+			"nz": "false",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "true",
+			"px": "false",
+			"nz": "false",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "false",
+			"px": "false",
+			"nz": "false",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "false",
+			"px": "false",
+			"nz": "false",
+			"nx": "true"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "true",
+			"px": "true",
+			"nz": "true",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "true",
+			"px": "true",
+			"nz": "true",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "false",
+			"px": "true",
+			"nz": "true",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "false",
+			"px": "true",
+			"nz": "true",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "true",
+			"px": "false",
+			"nz": "true",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "true",
+			"px": "false",
+			"nz": "true",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "false",
+			"px": "false",
+			"nz": "true",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "false",
+			"px": "false",
+			"nz": "true",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "true",
+			"px": "true",
+			"nz": "false",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "true",
+			"px": "true",
+			"nz": "false",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "false",
+			"px": "true",
+			"nz": "false",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "false",
+			"px": "true",
+			"nz": "false",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"pz": "true",
+			"px": "false",
+			"nz": "false",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "true",
+			"px": "false",
+			"nz": "false",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		"Name": "eidolon:stone_altar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"pz": "false",
+			"px": "false",
+			"nz": "false",
+			"nx": "false"
+		},
+		"Name": "eidolon:stone_altar"
+	}
+]

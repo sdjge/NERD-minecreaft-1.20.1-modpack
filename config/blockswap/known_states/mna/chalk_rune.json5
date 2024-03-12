@@ -1,0 +1,1284 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "0",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "0",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "1",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "1",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "2",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "2",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "3",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "3",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "4",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "4",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "5",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "5",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "6",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "6",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "7",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "7",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "8",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "8",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "9",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "9",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "10",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "10",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "11",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "11",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "12",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "12",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "13",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "13",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "14",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "14",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "15",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "15",
+			"metal": "true",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "0",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "0",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "1",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "1",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "2",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "2",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "3",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "3",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "4",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "4",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "5",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "5",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "6",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "6",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "7",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "7",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "8",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "8",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "9",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "9",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "10",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "10",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "11",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "11",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "12",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "12",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "13",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "13",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "14",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "14",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "15",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "15",
+			"metal": "false",
+			"activated": "true"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "0",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "0",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "1",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "1",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "2",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "2",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "3",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "3",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "4",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "4",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "5",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "5",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "6",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "6",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "7",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "7",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "8",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "8",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "9",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "9",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "10",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "10",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "11",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "11",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "12",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "12",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "13",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "13",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "14",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "14",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "15",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "15",
+			"metal": "true",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "0",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "1",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "1",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "2",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "2",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "3",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "3",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "4",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "4",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "5",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "5",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "6",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "6",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "7",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "7",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "8",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "8",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "9",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "9",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "10",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "10",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "11",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "11",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "12",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "12",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "13",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "13",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "14",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "14",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"rune": "15",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"rune": "15",
+			"metal": "false",
+			"activated": "false"
+		},
+		"Name": "mna:chalk_rune"
+	}
+]

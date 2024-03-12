@@ -1,0 +1,224 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "1"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "2"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "3"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "4"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "5"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "6"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "7"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "8"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "9"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "10"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "11"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "12"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "13"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "14"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "15"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "16"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "17"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "18"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "19"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "20"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "21"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "22"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "23"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "24"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "25"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "26"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "27"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "28"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "29"
+		},
+		"Name": "mna:transitory_tile"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"duration": "30"
+		},
+		"Name": "mna:transitory_tile"
+	}
+]

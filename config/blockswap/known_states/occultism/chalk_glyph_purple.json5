@@ -1,0 +1,422 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "1",
+			"facing": "north"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "2",
+			"facing": "north"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "3",
+			"facing": "north"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "4",
+			"facing": "north"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "5",
+			"facing": "north"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "6",
+			"facing": "north"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "7",
+			"facing": "north"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "8",
+			"facing": "north"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "9",
+			"facing": "north"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "10",
+			"facing": "north"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "11",
+			"facing": "north"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "12",
+			"facing": "north"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "0",
+			"facing": "south"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "1",
+			"facing": "south"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "2",
+			"facing": "south"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "3",
+			"facing": "south"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "4",
+			"facing": "south"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "5",
+			"facing": "south"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "6",
+			"facing": "south"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "7",
+			"facing": "south"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "8",
+			"facing": "south"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "9",
+			"facing": "south"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "10",
+			"facing": "south"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "11",
+			"facing": "south"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "12",
+			"facing": "south"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "0",
+			"facing": "west"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "1",
+			"facing": "west"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "2",
+			"facing": "west"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "3",
+			"facing": "west"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "4",
+			"facing": "west"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "5",
+			"facing": "west"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "6",
+			"facing": "west"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "7",
+			"facing": "west"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "8",
+			"facing": "west"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "9",
+			"facing": "west"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "10",
+			"facing": "west"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "11",
+			"facing": "west"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "12",
+			"facing": "west"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "0",
+			"facing": "east"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "1",
+			"facing": "east"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "2",
+			"facing": "east"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "3",
+			"facing": "east"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "4",
+			"facing": "east"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "5",
+			"facing": "east"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "6",
+			"facing": "east"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "7",
+			"facing": "east"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "8",
+			"facing": "east"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "9",
+			"facing": "east"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "10",
+			"facing": "east"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "11",
+			"facing": "east"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"sign": "12",
+			"facing": "east"
+		},
+		"Name": "occultism:chalk_glyph_purple"
+	}
+]

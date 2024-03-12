@@ -1,0 +1,484 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"auto_activate": "true",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"auto_activate": "true",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"auto_activate": "true",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"auto_activate": "true",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"auto_activate": "true",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"auto_activate": "true",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"auto_activate": "true",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"auto_activate": "true",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"auto_activate": "true",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"auto_activate": "true",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"auto_activate": "true",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"auto_activate": "true",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"auto_activate": "false",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"auto_activate": "false",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"auto_activate": "false",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"auto_activate": "false",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"auto_activate": "false",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"auto_activate": "false",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"auto_activate": "false",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"auto_activate": "false",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"auto_activate": "false",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"auto_activate": "false",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"auto_activate": "false",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"auto_activate": "false",
+			"active": "true"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"auto_activate": "true",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"auto_activate": "true",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"auto_activate": "true",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"auto_activate": "true",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"auto_activate": "true",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"auto_activate": "true",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"auto_activate": "true",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"auto_activate": "true",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"auto_activate": "true",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"auto_activate": "true",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"auto_activate": "true",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"auto_activate": "true",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"auto_activate": "false",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"auto_activate": "false",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"auto_activate": "false",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"auto_activate": "false",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"auto_activate": "false",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"auto_activate": "false",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"auto_activate": "false",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"auto_activate": "false",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"auto_activate": "false",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"auto_activate": "false",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"auto_activate": "false",
+			"active": "false"
+		},
+		"Name": "mna:brazier"
+	}
+]

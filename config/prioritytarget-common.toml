@@ -1,0 +1,13 @@
+#PriorityTarget Common Configuration
+#The time of the refresh interval. After each interval, the enchanted chest armor will check the amount of mobs targeting the player
+#Range: 1 ~ 6000
+refreshInterval = 5
+#The width of the area, in which the mobs targeting the player will be counted.
+#Width = value * 2 + 1
+#Range: 5 ~ 100
+areaWidth = 32
+#The height of the area, in which the mobs targeting the player will be counted.
+#Height = value * 2 + 1
+#Range: 3 ~ 192
+areaHeight = 10
+

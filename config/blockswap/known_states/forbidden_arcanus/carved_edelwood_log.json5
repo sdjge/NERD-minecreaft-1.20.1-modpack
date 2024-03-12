@@ -1,0 +1,324 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "true",
+			"leaves": "true",
+			"facing": "north"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "true",
+			"leaves": "true",
+			"facing": "north"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "false",
+			"leaves": "true",
+			"facing": "north"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "false",
+			"leaves": "true",
+			"facing": "north"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "true",
+			"leaves": "false",
+			"facing": "north"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "true",
+			"leaves": "false",
+			"facing": "north"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "false",
+			"leaves": "false",
+			"facing": "north"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "true",
+			"leaves": "true",
+			"facing": "south"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "true",
+			"leaves": "true",
+			"facing": "south"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "false",
+			"leaves": "true",
+			"facing": "south"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "false",
+			"leaves": "true",
+			"facing": "south"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "true",
+			"leaves": "false",
+			"facing": "south"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "true",
+			"leaves": "false",
+			"facing": "south"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "false",
+			"leaves": "false",
+			"facing": "south"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "false",
+			"leaves": "false",
+			"facing": "south"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "true",
+			"leaves": "true",
+			"facing": "west"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "true",
+			"leaves": "true",
+			"facing": "west"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "false",
+			"leaves": "true",
+			"facing": "west"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "false",
+			"leaves": "true",
+			"facing": "west"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "true",
+			"leaves": "false",
+			"facing": "west"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "true",
+			"leaves": "false",
+			"facing": "west"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "false",
+			"leaves": "false",
+			"facing": "west"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "false",
+			"leaves": "false",
+			"facing": "west"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "true",
+			"leaves": "true",
+			"facing": "east"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "true",
+			"leaves": "true",
+			"facing": "east"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "false",
+			"leaves": "true",
+			"facing": "east"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "false",
+			"leaves": "true",
+			"facing": "east"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "true",
+			"leaves": "false",
+			"facing": "east"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "true",
+			"leaves": "false",
+			"facing": "east"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"oily": "false",
+			"leaves": "false",
+			"facing": "east"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"oily": "false",
+			"leaves": "false",
+			"facing": "east"
+		},
+		"Name": "forbidden_arcanus:carved_edelwood_log"
+	}
+]

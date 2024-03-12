@@ -1,0 +1,455 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "1"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "2"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "3"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "4"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "5"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "6"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "7"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "8"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "9"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "10"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "11"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "12"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "13"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "14"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "15"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "16"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "17"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "18"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "19"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "20"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "21"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "22"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "23"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "24"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "25"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "26"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "27"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "28"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "29"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "30"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "31"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "32"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "33"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "34"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "35"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "36"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "37"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "38"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "39"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "40"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "41"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "42"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "43"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "44"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "45"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "46"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "47"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "48"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "49"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "50"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "51"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "52"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "53"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "54"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "55"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "56"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "57"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "58"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "59"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "60"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "61"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "62"
+		},
+		"Name": "mna:transitory_tunnel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"face_visibility": "63"
+		},
+		"Name": "mna:transitory_tunnel"
+	}
+]

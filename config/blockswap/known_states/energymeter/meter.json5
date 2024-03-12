@@ -1,0 +1,437 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "north",
+			"bottom": "north"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "east",
+			"bottom": "north"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "east",
+			"bottom": "north"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "south",
+			"bottom": "north"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "south",
+			"bottom": "north"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "west",
+			"bottom": "north"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "west",
+			"bottom": "north"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "up",
+			"bottom": "north"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "up",
+			"bottom": "north"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "down",
+			"bottom": "north"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "down",
+			"bottom": "north"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "north",
+			"bottom": "south"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "north",
+			"bottom": "south"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "east",
+			"bottom": "south"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "east",
+			"bottom": "south"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "south",
+			"bottom": "south"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "south",
+			"bottom": "south"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "west",
+			"bottom": "south"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "west",
+			"bottom": "south"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "up",
+			"bottom": "south"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "up",
+			"bottom": "south"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "down",
+			"bottom": "south"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "down",
+			"bottom": "south"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "north",
+			"bottom": "west"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "north",
+			"bottom": "west"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "east",
+			"bottom": "west"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "east",
+			"bottom": "west"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "south",
+			"bottom": "west"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "south",
+			"bottom": "west"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "west",
+			"bottom": "west"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "west",
+			"bottom": "west"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "up",
+			"bottom": "west"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "up",
+			"bottom": "west"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "down",
+			"bottom": "west"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "down",
+			"bottom": "west"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "north",
+			"bottom": "east"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "north",
+			"bottom": "east"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "east",
+			"bottom": "east"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "east",
+			"bottom": "east"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "south",
+			"bottom": "east"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "south",
+			"bottom": "east"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "west",
+			"bottom": "east"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "west",
+			"bottom": "east"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "up",
+			"bottom": "east"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "up",
+			"bottom": "east"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "true",
+			"facing": "down",
+			"bottom": "east"
+		},
+		"Name": "energymeter:meter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"io": "false",
+			"facing": "down",
+			"bottom": "east"
+		},
+		"Name": "energymeter:meter"
+	}
+]

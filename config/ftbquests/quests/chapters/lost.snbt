@@ -1,0 +1,164 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lost"
+	group: ""
+	id: "6096950BE567737F"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		can_repeat: true
+		id: "6B34B63C72562FB6"
+		rewards: [{
+			id: "3EAEE6013D9F0699"
+			item: {
+				Count: 1b
+				id: "eccentrictome:tome"
+				tag: {
+					"eccentrictome:mods": {
+						ae2: {
+							0: {
+								Count: 1b
+								id: "ae2:guide"
+							}
+						}
+						aether: {
+							0: {
+								Count: 1b
+								id: "aether:book_of_lore"
+							}
+						}
+						apotheosis: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "apotheosis:apoth_chronicle"
+								}
+							}
+						}
+						ars_nouveau: {
+							0: {
+								Count: 1b
+								id: "ars_nouveau:worn_notebook"
+							}
+						}
+						bloodmagic: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "bloodmagic:guide"
+								}
+							}
+						}
+						botania: {
+							0: {
+								Count: 1b
+								id: "botania:lexicon"
+							}
+						}
+						eidolon: {
+							0: {
+								Count: 1b
+								id: "eidolon:codex"
+							}
+						}
+						embers: {
+							0: {
+								Count: 1b
+								id: "embers:ancient_codex"
+							}
+						}
+						extendedcrafting: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "extendedcrafting:guide"
+								}
+							}
+						}
+						ftbquests: {
+							0: {
+								Count: 1b
+								id: "ftbquests:book"
+							}
+						}
+						immersiveengineering: {
+							0: {
+								Count: 1b
+								id: "immersiveengineering:manual"
+							}
+						}
+						industrialforegoing: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "industrialforegoing:industrial_foregoing"
+								}
+							}
+						}
+						integrateddynamics: {
+							0: {
+								Count: 1b
+								id: "integrateddynamics:on_the_dynamics_of_integration"
+							}
+						}
+						mna: {
+							0: {
+								Count: 1b
+								id: "mna:guide_book"
+							}
+						}
+						modularrouters: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "modularrouters:book"
+								}
+							}
+						}
+						naturesaura: {
+							0: {
+								Count: 1b
+								id: "patchouli:guide_book"
+								tag: {
+									"patchouli:book": "naturesaura:book"
+								}
+							}
+						}
+						occultism: {
+							0: {
+								Count: 1b
+								id: "occultism:dictionary_of_spirits"
+								tag: {
+									"modonomicon:book_id": "occultism:dictionary_of_spirits"
+								}
+							}
+						}
+						powah: {
+							0: {
+								Count: 1b
+								id: "powah:book"
+							}
+						}
+					}
+					"eccentrictome:version": 1
+				}
+			}
+			type: "item"
+		}]
+		tasks: [{
+			id: "1F6891E2803726DD"
+			title: "yes:("
+			type: "checkmark"
+		}]
+		title: "lost your tome?"
+		x: 0.5d
+		y: -0.5d
+	}]
+	title: "lost something?"
+}

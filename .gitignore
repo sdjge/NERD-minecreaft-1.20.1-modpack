@@ -24,9 +24,9 @@ hs_err_pid*
 replay_pid*
 *
 !.gitignore
-!kubejs/   
-!config/
-!defaultconfigs/
-!resourcepacks/
+!kubejs/
+!config
+!defaultconfigs
+!resourcepacks
 !emi.json
-!buddingcrystals/
+!buddingcrystals

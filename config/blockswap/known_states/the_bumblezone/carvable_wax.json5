@@ -1,0 +1,438 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"carving": "uncarved"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"carving": "uncarved"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"carving": "uncarved"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"carving": "uncarved"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"carving": "uncarved"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"carving": "wavy"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"carving": "wavy"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"carving": "wavy"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"carving": "wavy"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"carving": "wavy"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"carving": "wavy"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"carving": "flower"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"carving": "flower"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"carving": "flower"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"carving": "flower"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"carving": "flower"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"carving": "flower"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"carving": "chiseled"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"carving": "chiseled"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"carving": "chiseled"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"carving": "chiseled"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"carving": "chiseled"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"carving": "chiseled"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"carving": "diamond"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"carving": "diamond"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"carving": "diamond"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"carving": "diamond"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"carving": "diamond"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"carving": "diamond"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"carving": "bricks"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"carving": "bricks"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"carving": "bricks"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"carving": "bricks"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"carving": "bricks"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"carving": "bricks"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"carving": "chains"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"carving": "chains"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"carving": "chains"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"carving": "chains"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"carving": "chains"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"carving": "chains"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"carving": "music"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"carving": "music"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"carving": "music"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"carving": "music"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"carving": "music"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"carving": "music"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"carving": "grate"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"carving": "grate"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"carving": "grate"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"carving": "grate"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "up",
+			"carving": "grate"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "down",
+			"carving": "grate"
+		},
+		"Name": "the_bumblezone:carvable_wax"
+	}
+]

@@ -1,0 +1,548 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_start"
+	group: "7385E3052B170F39"
+	id: "2F019E2300569860"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0FF4BEBEE25FFA4E"
+			rewards: [
+				{
+					id: "3495B6DBC6C7671E"
+					table_id: 4638409788339170839L
+					type: "random"
+				}
+				{
+					count: 10
+					id: "3BB93C681140B077"
+					item: "minecraft:oak_log"
+					type: "item"
+				}
+				{
+					id: "1C8EADF04888B5D9"
+					type: "xp"
+					xp: 10
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				count: 5L
+				id: "66798BA3561FD376"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0FF4BEBEE25FFA4E"]
+			id: "486C05FFCD65E566"
+			invisible: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6759FB4353078C2A"
+					table_id: 4638409788339170839L
+					type: "random"
+				}
+				{
+					id: "651C4F1708A0EA32"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					advancement: "chunkbychunk:chunkspawnerobtained"
+					criterion: ""
+					id: "14FEDA98B1E4C6CB"
+					type: "advancement"
+				}
+				{
+					advancement: "chunkbychunk:unstablechunkspawnerobtained"
+					criterion: ""
+					id: "030A4BC66FBE40A5"
+					type: "advancement"
+				}
+			]
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3E400A7CDFF37406"]
+			id: "297180DCE43BF213"
+			tasks: [{
+				count: 10L
+				id: "615DDD1D41CC8F6D"
+				item: {
+					Count: 10b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:raw_materials"
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0FF4BEBEE25FFA4E"]
+			id: "3E400A7CDFF37406"
+			rewards: [{
+				count: 32
+				id: "7440FBF3E294AEB8"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "5839F9E604CEC07D"
+				item: { Count: 16b, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			id: "3F78C2035898B02D"
+			tasks: [{
+				id: "07B9AAA6E588DD8C"
+				item: "occultism:datura"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -5.5d
+		}
+		{
+			dependency_requirement: "one_completed"
+			icon: "minecraft:grindstone"
+			id: "703C462F5C7C37FC"
+			optional: true
+			tasks: [
+				{
+					disable_toast: true
+					id: "2576E2C3398013D3"
+					item: "minecraft:grindstone"
+					type: "item"
+				}
+				{
+					id: "3AC4EB3E28AD3533"
+					type: "checkmark"
+				}
+			]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"297180DCE43BF213"
+				"33985DE9539FB782"
+				"703C462F5C7C37FC"
+			]
+			dependency_requirement: "one_completed"
+			id: "4E4593857FCEB4B3"
+			tasks: [{
+				id: "7F6E0EAB19886B95"
+				item: "alltheores:copper_dust"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -2.5d
+		}
+		{
+			dependency_requirement: "one_completed"
+			id: "33985DE9539FB782"
+			optional: true
+			tasks: [
+				{
+					disable_toast: true
+					id: "347714CC90CA8E51"
+					item: {
+						Count: 1b
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "itemfilters:tag"
+									tag: {
+										value: "alltheores:ore_hammers"
+									}
+								}
+								{
+									Count: 1b
+									id: "itemfilters:tag"
+									tag: {
+										value: "immersiveengineering:tools/hammers"
+									}
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1A90247453E77CB2"
+					type: "checkmark"
+				}
+			]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3F78C2035898B02D"]
+			id: "739FDE57A3ACF02F"
+			tasks: [
+				{
+					id: "7FDB11426EAB209D"
+					item: "occultism:spirit_fire"
+					type: "item"
+				}
+				{
+					id: "69DD436AEEE99889"
+					type: "checkmark"
+				}
+			]
+			x: 4.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["739FDE57A3ACF02F"]
+			id: "544888278F7BA25D"
+			tasks: [{
+				id: "659552A52D9EBE1D"
+				item: "occultism:otherstone"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["739FDE57A3ACF02F"]
+			id: "5F4E143AABC34353"
+			tasks: [
+				{
+					id: "01EE4AD2F4493EDA"
+					item: {
+						Count: 1b
+						id: "occultism:otherworld_sapling_natural"
+						tag: {
+							isInventoryItem: 1b
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "28E84FCF7443CAFF"
+					item: { Count: 10b, id: "occultism:otherworld_log" }
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["65D648FA36B52971"]
+			id: "5A8A78412E52062C"
+			tasks: [{
+				id: "7CCE8153546B0297"
+				item: "occultism:sacrificial_bowl"
+				type: "item"
+			}]
+			x: 13.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5F4E143AABC34353"]
+			id: "305D1C1759FE3D2E"
+			tasks: [{
+				id: "648F956461F1A94B"
+				item: "occultism:otherworld_ashes"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["544888278F7BA25D"]
+			id: "446020DA4D98677C"
+			tasks: [{
+				count: 2L
+				id: "6C8201F90A451FE7"
+				item: { Count: 2b, id: "occultism:burnt_otherstone" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"446020DA4D98677C"
+				"305D1C1759FE3D2E"
+				"4E4593857FCEB4B3"
+			]
+			id: "1BFC45582CF109ED"
+			tasks: [{
+				id: "42621B32E8C0DC35"
+				item: {
+					Count: 1b
+					id: "kubejs:spiritfire_resistant_dusts"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1BFC45582CF109ED"]
+			id: "65D648FA36B52971"
+			tasks: [{
+				id: "4E0F2E8D44841F85"
+				item: {
+					Count: 1b
+					id: "kubejs:spiritfire_resistant_clay"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["03CAA29E3AE4613E"]
+			hide_dependency_lines: false
+			id: "7604162EC2D0FD03"
+			rewards: [
+				{
+					id: "06FC463715CD9006"
+					item: "embers:item_extractor"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "74328F5EAFA889AD"
+					item: "embers:item_pipe"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "76F092A148FABD7D"
+					item: "embers:mechanical_core"
+					type: "item"
+				}
+				{
+					id: "35F541FF6F22DFBD"
+					item: "embers:ember_bore"
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0FF4BEBEE25FFA4E"]
+			id: "03CAA29E3AE4613E"
+			rewards: [{
+				count: 16
+				id: "6B5FF6ECDDDEEA0F"
+				item: "embers:caminite_blend"
+				type: "item"
+			}]
+			tasks: [{
+				count: 24L
+				id: "1BF62D8E466CB4DB"
+				item: "embers:caminite_blend"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7604162EC2D0FD03"]
+			id: "7171A0F2ABBAB26B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "666D6DF4BDA30CBA"
+				table_id: 21267510132065397L
+				type: "random"
+			}]
+			tasks: [{
+				count: 5L
+				id: "254E31C307A07042"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "embers:ember_grit"
+							}
+							{
+								Count: 1b
+								id: "embers:ember_crystal"
+							}
+							{
+								Count: 1b
+								id: "embers:ember_shard"
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7171A0F2ABBAB26B"]
+			id: "0241A7BE15BAF246"
+			tasks: [{
+				id: "0CEAA0FE5A06F96B"
+				item: "embers:ember_activator"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"0241A7BE15BAF246"
+				"2D1592D84D6CB090"
+			]
+			id: "686FF40F3731D815"
+			tasks: [
+				{
+					id: "050815C749BFB300"
+					item: "embers:stamp_base"
+					type: "item"
+				}
+				{
+					id: "6FCC51370BEEBCBB"
+					item: "embers:stamper"
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"0241A7BE15BAF246"
+				"03CAA29E3AE4613E"
+			]
+			id: "2D1592D84D6CB090"
+			tasks: [
+				{
+					id: "3CDB3D3086E733F8"
+					item: "embers:ember_receiver"
+					type: "item"
+				}
+				{
+					id: "050BEDDE428FEEF2"
+					item: "embers:ember_emitter"
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0241A7BE15BAF246"]
+			id: "78FCFB15C1AB8B23"
+			tasks: [{
+				id: "603C96BDE3704E78"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							"embers:ember": 0.0d
+							"embers:ember_capacity": 24000.0d
+						}
+					}
+					id: "embers:copper_cell"
+					tag: {
+						ForgeCaps: { }
+					}
+				}
+				match_nbt: false
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["49301503570ACA02"]
+			id: "72A51D73891FA2A3"
+			tasks: [{
+				id: "41D42ACEFD1D4FE9"
+				item: "embers:dawnstone_ingot"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"6802EF79A63429AA"
+				"0241A7BE15BAF246"
+			]
+			id: "49301503570ACA02"
+			tasks: [{
+				id: "49A67FEC64F982F5"
+				item: "embers:mixer_centrifuge"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0241A7BE15BAF246"]
+			id: "6802EF79A63429AA"
+			tasks: [{
+				id: "3253FA7D9AB8889C"
+				item: "embers:melter"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["72A51D73891FA2A3"]
+			id: "2E5FEEDC7C56E6B1"
+			tasks: [
+				{
+					id: "1E96EE083704EB15"
+					item: "embers:alchemy_tablet"
+					type: "item"
+				}
+				{
+					id: "08BE75DEFFE78763"
+					item: "embers:alchemy_pedestal"
+					type: "item"
+				}
+				{
+					id: "23644E37FAD2F29A"
+					item: "embers:beam_cannon"
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 3.5d
+		}
+	]
+	title: "getting start!"
+}

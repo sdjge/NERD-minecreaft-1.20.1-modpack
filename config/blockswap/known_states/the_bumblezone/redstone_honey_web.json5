@@ -1,0 +1,1284 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "0",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "0",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "1",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "1",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "2",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "2",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "3",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "3",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "4",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "4",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "5",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "5",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "6",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "6",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "7",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "7",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "8",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "8",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "9",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "9",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "10",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "10",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "11",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "11",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "12",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "12",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "13",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "13",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "14",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "14",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "15",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "15",
+			"northsouth": "true",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "0",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "0",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "1",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "1",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "2",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "2",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "3",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "3",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "4",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "4",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "5",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "5",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "6",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "6",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "7",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "7",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "8",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "8",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "9",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "9",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "10",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "10",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "11",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "11",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "12",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "12",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "13",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "13",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "14",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "14",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "15",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "15",
+			"northsouth": "false",
+			"eastwest": "true"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "0",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "0",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "1",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "1",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "2",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "2",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "3",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "3",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "4",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "4",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "5",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "5",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "6",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "6",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "7",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "7",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "8",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "8",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "9",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "9",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "10",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "10",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "11",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "11",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "12",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "12",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "13",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "13",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "14",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "14",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "15",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "15",
+			"northsouth": "true",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "0",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "1",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "1",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "2",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "2",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "3",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "3",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "4",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "4",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "5",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "5",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "6",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "6",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "7",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "7",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "8",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "8",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "9",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "9",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "10",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "10",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "11",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "11",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "12",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "12",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "13",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "13",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "14",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "14",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "true",
+			"power": "15",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"updown": "false",
+			"power": "15",
+			"northsouth": "false",
+			"eastwest": "false"
+		},
+		"Name": "the_bumblezone:redstone_honey_web"
+	}
+]
