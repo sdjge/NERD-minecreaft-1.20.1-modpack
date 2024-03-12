@@ -1,0 +1,13 @@
+{
+  "type": "enderio:fire_crafting",
+  "base_blocks": [
+    {
+      "block": "fluxnetworks:flux_block"
+    }
+  ],
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "loot_table": "enderio:fire_crafting/infinity",
+  "max_item_drops": 3
+}

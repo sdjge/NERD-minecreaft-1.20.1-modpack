@@ -1,0 +1,19 @@
+{
+  "item.kubejs.andesite_alloy_gravel": "§7安山合金坯料",
+  "item.kubejs.chalk_white_dust": "§7粉碎白粉笔",
+  "item.kubejs.chalk_gold_dust": "§e粉碎金粉笔",
+  "item.kubejs.chalk_purple_dust": "§d粉碎紫粉笔",
+  "item.kubejs.chalk_red_dust": "§c粉碎红粉笔",
+  "item.kubejs.not_chalk_white_dust": "§b注魔§7粉碎白粉笔",
+  "item.kubejs.not_chalk_gold_dust": "§b注魔§e粉碎金粉笔",
+  "item.kubejs.not_chalk_purple_dust": "§b注魔§d粉碎紫粉笔",
+  "item.kubejs.not_chalk_red_dust": "§b注魔§c粉碎红粉笔",
+  "item.kubejs.spiritfire_resistant_dusts": "§5抗灵火粉末",
+  "item.kubejs.spiritfire_resistant_clay": "§5抗灵火粘土",
+  "item.kubejs.flammable_source_bucket": "§5可燃魔源桶",
+  "item.kubejs.litematica_tool":"§a投影工具",
+  "block.kubejs.unfinished_sacrificial_bowl": "§6未完成的献祭碗",
+  "fluid.kubejs.flammable_source": "§5可燃魔源",
+  "fluid.kubejs.flowing_flammable_source": "§5流动可燃魔源",
+  "tooltip.kubejs.spiritfire_resistant":"§4§m§l§k1111111111"
+}

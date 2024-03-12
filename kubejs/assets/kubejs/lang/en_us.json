@@ -1,0 +1,19 @@
+{
+  "item.kubejs.andesite_alloy_gravel": "§7andesite gravel",
+  "item.kubejs.chalk_white_dust": "§7white chalkdust",
+  "item.kubejs.chalk_gold_dust": "§egold chalkdust",
+  "item.kubejs.chalk_purple_dust": "§dpurple chalkdust",
+  "item.kubejs.chalk_red_dust": "§cred chalkdust",
+  "item.kubejs.not_chalk_white_dust": "§7white §bglow-§7chalkdust",
+  "item.kubejs.not_chalk_gold_dust": "§egold §bglow-§echalkdust",
+  "item.kubejs.not_chalk_purple_dust": "§dpurple §bglow-§dchalkdust",
+  "item.kubejs.not_chalk_red_dust": "§cred §bglow-§cchalkdust",
+  "item.kubejs.spiritfire_resistant_dusts": "§5spiritfire-resistant dusts",
+  "item.kubejs.spiritfire_resistant_clay": "§5spiritfire-resistant clay",
+  "item.kubejs.litematica_tool":"§alitematica tool",
+  "item.kubejs.flammable_source_bucket": "§5flammable_source_bucket",
+  "block.kubejs.unfinished_sacrificial_bowl": "§6sacrificial bowl(unfinished)",
+  "fluid.kubejs.flammable_source": "§5flammable source",
+  "fluid.kubejs.flowing_flammable_source": "§5flowing flammable source",
+  "tooltip.kubejs.spiritfire_resistant":"§4§m§l§k1111111111"
+}

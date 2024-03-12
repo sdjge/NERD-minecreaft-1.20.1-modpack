@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "settings": {
+      "structures": {
+        "structures": {}
+      },
+      "layers": [],
+      "biome": "nerd:void",
+      "features": true
+    },
+    "type": "minecraft:flat"
+  }
+}
