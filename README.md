@@ -1,1 +1,3 @@
 # NERD-minecreafft-1.20.1-modpack
+Still Developing...
+Cumming S∞n
